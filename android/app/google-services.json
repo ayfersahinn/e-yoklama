@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288811576788",
+    "firebase_url": "https://bitirmeprojesi-82b43-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bitirmeprojesi-82b43",
+    "storage_bucket": "bitirmeprojesi-82b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288811576788:android:5d72ded565e0f29e47ba41",
+        "android_client_info": {
+          "package_name": "com.example.e_yoklama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288811576788-6r9bki9vlb674fdklrl1f56ugrvsdld8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZykU3YVZKEHdFc2cY5njtLvUaczARfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288811576788-6r9bki9vlb674fdklrl1f56ugrvsdld8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
