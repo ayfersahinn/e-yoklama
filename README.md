@@ -1,6 +1,15 @@
 # e_yoklama
 
-A new Flutter project.
+This project is a management system designed to streamline the process of tracking and managing class attendance and lesson information. It includes the following functionalities:
+
+- **For Students**: 
+  - View their attendance records.
+  - Access detailed lesson information.
+
+- **For Teachers**: 
+  - Create and manage lessons.
+  - View lesson lists.
+  - Assign students to specific lessons.
 
 ## Project Demo 🎥
 
